@@ -1,0 +1,8 @@
+venv
+temp
+src/cpp/lbm_cuda
+src/cpp/c_done
+src/cpp/python_done
+**/__pycache__/
+**/nohup.out
+.vscode
